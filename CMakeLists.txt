@@ -3,4 +3,7 @@ project(CppCrashCourse)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CppCrashCourse main.cpp)
+add_executable(CppCrashCourse main.cpp
+        hashingExample.cpp
+        hashingExample.h
+)

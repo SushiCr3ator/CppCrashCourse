@@ -12,6 +12,7 @@
 #include <fstream>
 
 //Hashing
+#include "./assets/hashing.h"
 
 //create one for iterator using list as well since its the best example i have with help of erase()
 using namespace std;
