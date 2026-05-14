@@ -1,0 +1,13 @@
+//
+// Created by gold1 on 14.05.2026.
+//
+
+#ifndef CPPCRASHCOURSE_HASHINGEXAMPLE_H
+#define CPPCRASHCOURSE_HASHINGEXAMPLE_H
+
+
+class hashingExample {
+};
+
+
+#endif //CPPCRASHCOURSE_HASHINGEXAMPLE_H
