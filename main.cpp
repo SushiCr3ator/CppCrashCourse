@@ -8,11 +8,9 @@
 #include <set>
 #include <map>
 
-//Filehandling
-#include <fstream>
+#include "hashingExample.h"
 
-//Hashing
-#include "./assets/hashing.h"
+//Filehandling & Hashing in an external class
 
 //create one for iterator using list as well since its the best example i have with help of erase()
 using namespace std;
@@ -175,6 +173,7 @@ int main() {
     List l;
     Set s;
     Map m;
-    m.playMap();
+    HashingExample he;
+    he.hashedPassword();
     return 0;
 }
