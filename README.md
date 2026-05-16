@@ -3,4 +3,4 @@ This Git Rep is goes in depth in what we learnt alr in VL, if u want to learn mo
 <br>
 <h3>Notes to current code</h3>
 to run the right function (in example), write:<br>
-v.playVector();<br> className.functionName();
+<p color="red">v.playVector();<br> className.functionName();</p>
